@@ -4,4 +4,4 @@
 <h3>Ekran Görüntüsü</h3>
 <img src="1.JPG">
 <a href="https://www.patika.dev/tr">PATİKA.DEV</a>
-<img src="PATİKA.JPG">
+<img src="patika.JPG">
